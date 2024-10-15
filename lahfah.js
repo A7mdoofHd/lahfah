@@ -66,10 +66,16 @@ border-bottom:2px solid;margin-bottom:2px;border-top:2px solid;margin-top:2px;bo
 $(`<img src="https://www.raed.net/img?id=1042304" class="" style="width:390px;height:150px;margin-top: 0px;opacity: 0.67;border-radius: 0px 20px 0px 0px;" >
 
 
-<a id="des22" style="height: 29px;width:70px;border-style: dashed #000;float:right;margin:-130px -1.8px 4px;color: #ffffff;transform:matrix(1, 0, 0, 1, -256, 20);background-color: #e55d7b!important; border-radius: 0px 0px 25px 0px;" class="label label label-primary mini fl " target="_blank" class="fl  fa   fa-phone btn btn-warning" href="sub.html">إشتراكات</a>
-<a id="des22" style="height: 29px;width:70px;margin:-124.7px -1.8px 2px; border-radius: 0px 25px 0px 0px;float:right;color:rgb(255, 217, 0);transform:matrix(1, 0, 0, 1, -256, -15);" class="label label label-primary mini fl" class="fl  fa   fa-star btn btn-success" target="_blank" href="rules.html">القوانين</a>
-<a id="des22" style="height: 29px;color: rgb(255 255 255);width:60px;margin:-55px -2px 2px; border-radius: 25px 0px 0px 0px;;transform:matrix(1, 0, 0, 1, 6, -85);background-color: #e55d7b!important;" class="label label label-primary mini fl" target="_blank" class="fl  fa  fa-heartbeat btn btn-danger" href="mobile.html">تطبيق</a>
-<a id="des22" style="height: 29px;width:40px;color: rgb(255 217 11);width:60px;;margin:-60.6px 62px 2px; border-radius: 0px 0px 0px 25px;transform:matrix(1, 0, 0, 1, -58, -50);" class="label label label-primary mini fl" target="_blank" class="fl  fa fa-graduation-cap btn btn-info" href="contact.html">اتصل بنا</a>
+<a id="des22" style="height: 29px;width:70px;border-style: dashed #000;float:right;margin:-103px -5px 4px;color: #ffffff;transform:matrix(1, 0, 0, 1, -256, 20);background-color: #e55d7b!important; border-radius: 0px 0px 25px 0px;" class="label label label-primary mini fl " target="_blank" class="fl  fa   fa-phone btn btn-warning" href="sub.html">إشتراكات</a>
+
+
+<a id="des22" style="height: 29px;width:70px;margin:-100px -5px 2px; border-radius: 0px 25px 0px 0px;float:right;color:rgb(255, 217, 0);transform:matrix(1, 0, 0, 1, -256, -15);" class="label label label-primary mini fl" class="fl  fa   fa-star btn btn-success" target="_blank" href="rules.html">القوانين</a>
+
+
+<a id="des22" style="height: 29px;color: rgb(255 255 255);width:60px;margin:-30px -3px 2px; border-radius: 25px 0px 0px 0px;;transform:matrix(1, 0, 0, 1, 6, -85);background-color: #e55d7b!important;" class="label label label-primary mini fl" target="_blank" class="fl  fa  fa-heartbeat btn btn-danger" href="mobile.html">تطبيق</a>
+
+
+<a id="des22" style="height: 29px;width:40px;color: rgb(255 217 11);width:60px;;margin:-33px 8px 0px; border-radius: 0px 0px 0px 25px;transform:matrix(1, 0, 0, 1, -58, -50);" class="label label label-primary mini fl" target="_blank" class="fl  fa fa-graduation-cap btn btn-info" href="contact.html">اتصل بنا</a>
 
 
 
@@ -77,7 +83,7 @@ $(`<img src="https://www.raed.net/img?id=1042304" class="" style="width:390px;he
 `).insertBefore('.nav-tabs');
 
 
-$(`<marquee direction="right" width="100%" class="sharit" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" style="text-align: center;height: 23px;color: #10384f;font-family: jazeera,FontAwesome;margin-right: -1px;margin-top: 5px;border-radius: 30px;width: 100%;padding: 1px;height:28px;"><img src="https://www.raed.net/img?id=977185"width="20" height="18" class="inta"> في عصر التواصل الحديث عبر الإنترنت، أصبحت وسائل التواصل الاجتماعي جزءًا لا يتجزأ من حياتنا اليومية. يلجأ الكثيرون إلى  الدردشة للتواصل مع الأصدقاء ، وللتعبير عن أفكارهم ومشاعرهم ، سنتحدث عن شات "لهفه" وكيف يمكن أن يكون مكانًا مثاليًا لبدء محادثات مميزة والتواصل مع الأشخاص الذين تحبهم. فـ مرحباً بكم ،   <img src="https://www.raed.net/img?id=977185"width="20" height="">
+$(`<marquee direction="right" width="100%" class="sharit" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" style="text-align: center;height: 23px;color: #10384f;font-family: jazeera,FontAwesome;margin-right: -1px;margin-top: 5px;border-radius: 30px;width: 100%;padding: 1px;height:28px;">في عصر التواصل الحديث عبر الإنترنت، أصبحت وسائل التواصل الاجتماعي جزءًا لا يتجزأ من حياتنا اليومية. يلجأ الكثيرون إلى  الدردشة للتواصل مع الأصدقاء ، وللتعبير عن أفكارهم ومشاعرهم ، سنتحدث عن شات "لهفه" وكيف يمكن أن يكون مكانًا مثاليًا لبدء محادثات مميزة والتواصل مع الأشخاص الذين تحبهم. فـ مرحباً بكم ، 
 </marquee></div>`).insertBefore('.bg.mini.fl');
 
 $(`<link rel="stylesheet" type="text/css" href="">
@@ -103,6 +109,7 @@ min-width: 44px!important;
 height: 24.7px;
 }
 </style>`).insertBefore('body')
+
 
 $("#u1,#u3").attr("maxlength",4) 
 minL=10;   
