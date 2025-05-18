@@ -81,7 +81,15 @@ $(`<style>
 @keyframes textclip {to {background-position: 120% center;}}</style>`).insertBefore('body');
 
 
-$(`<style>#mic4 {margin-right: 8px !important;}
+$(`<style>
+
+#mic4.oss {margin-right: 8px !important;background-image: url('https://www.babup.com/do.php?img=127364')!important;}
+
+
+
+
+
+
 #mic.oss .mic {
     border: 0px solid;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
